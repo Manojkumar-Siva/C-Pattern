@@ -5,7 +5,6 @@ To Write a C# program for pascal triangle.
 ## Equipment Required:
 Microsoft Visual Studio 2022.
 ## Algorithm:
-
 ### Step1:
 Start the program. 
 ### Step2:
@@ -25,7 +24,6 @@ End the program.
 Developed By: Manoj Kumar S
 Reg No: 212221230056
 ```
-
 ```
 using System;
 namespace ex3
